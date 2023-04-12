@@ -1,0 +1,11 @@
+C:\Users\Arkadiusz\source\repos\Merging_files\Merging_files\bin\Debug\Merging_files.exe.config
+C:\Users\Arkadiusz\source\repos\Merging_files\Merging_files\bin\Debug\Merging_files.exe
+C:\Users\Arkadiusz\source\repos\Merging_files\Merging_files\bin\Debug\Merging_files.pdb
+C:\Users\Arkadiusz\source\repos\Merging_files\Merging_files\obj\Debug\Merging_files.csproj.AssemblyReference.cache
+C:\Users\Arkadiusz\source\repos\Merging_files\Merging_files\obj\Debug\Merging_files.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arkadiusz\source\repos\Merging_files\Merging_files\obj\Debug\Merging_files.Properties.Resources.resources
+C:\Users\Arkadiusz\source\repos\Merging_files\Merging_files\obj\Debug\Merging_files.csproj.GenerateResource.cache
+C:\Users\Arkadiusz\source\repos\Merging_files\Merging_files\obj\Debug\Merging_files.csproj.CoreCompileInputs.cache
+C:\Users\Arkadiusz\source\repos\Merging_files\Merging_files\obj\Debug\Merging_files.exe
+C:\Users\Arkadiusz\source\repos\Merging_files\Merging_files\obj\Debug\Merging_files.pdb
+C:\Users\Arkadiusz\source\repos\Merging_files\Merging_files\obj\Debug\Merging_files.MergingFiles.resources
